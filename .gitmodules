@@ -1,0 +1,3 @@
+[submodule "pal_world"]
+	path = pal_world
+	url = https://github.com/chotting82/pal_world.git
